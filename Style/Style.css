@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: #418a13;
+	background-color: crimson;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
@@ -46,7 +46,7 @@ ul>li {
 
 a {
     text-decoration: none;
-    color:  #FFE97F;
+    color:  crimson;
     outline:  none;
 }
 
