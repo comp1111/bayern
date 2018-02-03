@@ -1,17 +1,30 @@
 body {
   background-color: lightgrey;
-  width: 90%;
+  width: 80%;
+  font-family: Garamond;
+  font-size: 2vw;
 }
 
 #bio {
   background-color: grey;
-  padding: 3em;
+  padding: 2em;
   margin: 1em;
+  width: 70%;
+  float: right;
 }
 
 
 #logo img {
   width: 100px;
+  float: left;
+  position: relative;
+  left: 3vw;
+}
+
+h1 {
+  padding-top: 3vh;
+  float: left;
+  padding-left: 3vw;
 }
 
 .person {
