@@ -1,0 +1,120 @@
+[33mcommit 976c38d93e3424cd4530406eb14b7ab3c32ee738[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniel <kyungmin.dan.lim@gmail.com>
+Date:   Fri Feb 2 12:20:47 2018 -0800
+
+    This is Daniel's
+
+[33mcommit 8018ae68936a7121a3a6834e12170b7a8dfb3003[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DarrenWangJianwei <36066700+DarrenWangJianwei@users.noreply.github.com>
+Date:   Fri Feb 2 11:29:20 2018 -0800
+
+    Delete .LindaCarter.html.swp
+
+[33mcommit cea47a763667902acd2376cfd545eacf4b75d9b6[m
+Author: DarrenWangJianwei <36066700+DarrenWangJianwei@users.noreply.github.com>
+Date:   Fri Feb 2 11:29:13 2018 -0800
+
+    Delete .JianweiWang.html.swp
+
+[33mcommit 96324efd1b6384929919a0747b6bb0595383a5f0[m
+Author: DarrenWangJianwei <36066700+DarrenWangJianwei@users.noreply.github.com>
+Date:   Fri Feb 2 11:29:05 2018 -0800
+
+    Delete .JianweiWang.html.swo
+
+[33mcommit 0b321bce18eee574c6066cc4af7240bc23dc48b1[m
+Merge: d888d2e 9d48174
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 11:27:34 2018 -0800
+
+    fix the conflicts
+
+[33mcommit d888d2e59b8459755805972960dc3148524aa69c[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 10:39:31 2018 -0800
+
+    add ...
+
+[33mcommit 9d48174dc14e4318891214749c0fc823fe25dfbf[m
+Author: rwhite83 <rwhite83@hotmail.com>
+Date:   Fri Feb 2 10:21:48 2018 -0800
+
+    Added W. Ross White content
+
+[33mcommit adbb5ee3398461c7dabc570ab376a75c92987713[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 10:11:43 2018 -0800
+
+    ICON
+
+[33mcommit 04f1baa5c102bb2c09fe8345a6d380cd4f2e1c4e[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 10:05:13 2018 -0800
+
+    change some background-color
+
+[33mcommit d7e7c4abcc10fc91bdd3e732611bc9e22d03303e[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 10:00:18 2018 -0800
+
+    link to my CSS
+
+[33mcommit 38e00a6b53322413cf05b33a995f0625f53d2694[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 09:47:41 2018 -0800
+
+    link to my CSS
+
+[33mcommit 58cdb4c21e3e07bd5d20ebce25598fde0586e3cb[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 09:45:25 2018 -0800
+
+    Link to my CSS
+
+[33mcommit 95f284d03dfddc7ca42d46af41ff5548f7b9fc69[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 09:40:44 2018 -0800
+
+    This is Darren CSS
+
+[33mcommit dfdcb03174dad761ccbc684030f095aebfb95934[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 09:15:05 2018 -0800
+
+    My html file
+
+[33mcommit bda07ca6da55dec5a347ff519d54e105b9b0d147[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 09:14:32 2018 -0800
+
+    I add a link in the Index.html to my html file
+
+[33mcommit 5e3a066bbabd834cd84b833163c7133d0c5ed92c[m
+Author: Darren Wang <darren.wjy1990@gmail.com>
+Date:   Fri Feb 2 08:54:47 2018 -0800
+
+    This is my photo
+
+[33mcommit af229226c1076f4777bb9c442044901eacf82d91[m
+Author: Carly Orr <carly_wong_orr@bcit.ca>
+Date:   Mon Jan 29 10:15:15 2018 -0800
+
+    Exclude .DS_Store from mac users
+
+[33mcommit 5c83f46a0f592228cc401edcc681b9d8723bc3ac[m
+Author: Carly Orr <carly_wong_orr@bcit.ca>
+Date:   Mon Jan 29 09:46:10 2018 -0800
+
+    update date and set
+
+[33mcommit 51fdbaf829c0e6b52e56aaf31880d2ecac574632[m
+Author: Carly Orr <carlyorr5@gmail.com>
+Date:   Sun Jan 28 21:21:07 2018 -0800
+
+    Uploading template
+
+[33mcommit 0ce2bd414e73bad15699e298f18fb72f51fd114e[m
+Author: Carly Orr <carly_wong_orr@bcit.ca>
+Date:   Sun Jan 28 20:08:49 2018 -0800
+
+    Initial commit
