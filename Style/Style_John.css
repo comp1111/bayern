@@ -1,14 +1,14 @@
 body {
 	font-family: Segoe UI, arial, sans-serif;
-	background-color: darkgrey;
-	color: #ffffff;
+	background-color: skyblue;
+	color: #cccccc;
 }
 
 img.person {
     width: 120px;
     float:  left;
-    padding-left:  35px;
-    padding-right:  35px;
+    padding-left:  30px;
+    padding-right:  30px;
 }
 
 div#bio {
@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: skyblue;
+	background-color:lightcoral;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
@@ -37,7 +37,7 @@ div#container {
 }
 
 h1, h2, div>a {
-    padding-left:  20px;
+    padding-left:  30px;
 }
 
 ul>li {
@@ -46,7 +46,7 @@ ul>li {
 
 a {
     text-decoration: none;
-    color:  goldenrod;
+    color:  lightgray;
     outline:  none;
 }
 
